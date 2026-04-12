@@ -1,0 +1,4 @@
+langchain
+gradio
+
+# ollama create codeguru -f modelfile
